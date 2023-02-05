@@ -3,6 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.Roboto {
+body {
   font-family: "Roboto", sans-serif;
 }
+
